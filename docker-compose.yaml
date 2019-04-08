@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  oh-my-zsh:
+    build: .
+    image: codejamninja/oh-my-zsh:latest
