@@ -1,0 +1,3 @@
+[template]
+src = "sshd_config.tmpl"
+dest = "/etc/ssh/sshd_config"
