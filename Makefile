@@ -28,7 +28,7 @@ push:
 
 .PHONY: run
 run: build
-	@docker run --rm -it $(IMAGE):latest
+	@docker run --rm -p 2222:22 -it $(IMAGE):latest
 
 .PHONY: ssh
 ssh: build

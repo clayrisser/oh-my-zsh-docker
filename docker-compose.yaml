@@ -3,3 +3,5 @@ version: '3'
 services:
   oh-my-zsh:
     image: codejamninja/oh-my-zsh:latest
+    ports:
+      - 2222:22
