@@ -4,6 +4,8 @@
 
 > run oh-my-zsh from a docker container
 
+![](assets/oh-my-zsh-docker.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 
